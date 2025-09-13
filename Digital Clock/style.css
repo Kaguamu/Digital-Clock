@@ -1,0 +1,20 @@
+.container{
+    text-align: center;
+    border:none;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+#clock{
+    font-size: 5em;
+    align-self: center;
+    color:white;
+    font-family: monospace;
+    backdrop-filter: blur(5px);
+}
+body{
+    background-image: url(istockphoto-497900492-612x612.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
